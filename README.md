@@ -18,11 +18,11 @@
 
 ### 📌 Proyectos destacados
 
-- 🔍 **Sistema de consultas históricas**  
-  Desarrollo en PHP + MySQL para gestión y búsqueda de archivos en sectores internos como Comercio, Autorización y Liquidaciones. Incluye filtros avanzados, estadísticas y exportación a Excel/PDF.
-
 - 📊 **Scripts en Python para análisis de datos**  
   Automatización de reportes y procesamiento de grandes volúmenes de datos, usando librerías como Pandas y Matplotlib.
+
+- 🔍 **Sistema de consultas históricas**  
+  Desarrollo en PHP + MySQL para gestión y búsqueda de archivos en sectores internos como Comercio, Autorización y Liquidaciones. Incluye filtros avanzados, estadísticas y exportación a Excel/PDF.
 
 - ⚙️ **Mantenimiento SmartOpen y stored procedures**  
   Experiencia en entornos bancarios optimizando procesos batch y bases de datos con SQL Server.
