@@ -21,6 +21,9 @@
 - 📊 **Scripts en Python para análisis de datos**  
   Automatización de reportes y procesamiento de grandes volúmenes de datos, usando librerías como Pandas y Matplotlib.
 
+- 🖥️ Aplicación de Escritorio en Python con Tkinter
+  Aplicación GUI desarrollada con **Python + Tkinter**, diseñada para gestionar clientes, cargar datos, Presupuesto, etc.
+
 - 🔍 **Sistema de consultas históricas**  
   Desarrollo en PHP + MySQL para gestión y búsqueda de archivos en sectores internos como Comercio, Autorización y Liquidaciones. Incluye filtros avanzados, estadísticas y exportación a Excel/PDF.
 
