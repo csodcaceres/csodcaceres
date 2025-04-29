@@ -11,7 +11,7 @@ Soy un desarrollador back-end con experiencia en el sector financiero, apasionad
 - **Bases de datos:** SQL Server, MySQL
 - **Back-End:** Python, C#.NET, JAVA, PHP, APIs REST
 - **Data & Automatización:** Pandas, NumPy, Matplotlib, SmartOpen
-- **Herramientas:** Git, Visual Studio, Sublime Text, PyCharm, Google Colab, Jupyter Notebook, SmartOpen
+- **Herramientas:** Git, Docker, Visual Studio, Sublime Text, PyCharm, Google Colab, Jupyter Notebook, SmartOpen
 - **Otros:** Automatización de procesos, Batch processing, Testing funcional
 
 ---
