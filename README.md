@@ -7,7 +7,7 @@ Soy un desarrollador back-end con experiencia en el sector financiero, apasionad
 
 ### 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Python, Java, JavaScript, PHP, HTML5, CSS3, SQL
+- **Lenguajes:** Python, Java, JavaScript, PHP
 - **Bases de datos:** SQL Server, MySQL
 - **Back-End:** Python, C#.NET, JAVA, PHP, APIs REST
 - **Data & Automatización:** Pandas, NumPy, Matplotlib, SmartOpen
