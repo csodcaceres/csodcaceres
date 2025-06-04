@@ -2,7 +2,9 @@
 # 👋 ¡Hola! Soy Oscar Daniel Cáceres
 
 ## 💼 Sobre mí
-Soy un desarrollador back-end con experiencia en el sector financiero, apasionado por la programación en Python, el análisis de datos y la mejora continua. Trabajo desarrollando soluciones a medida, automatizando procesos y manteniendo sistemas críticos. Me destaco por mi responsabilidad, curiosidad y compromiso con la calidad.
+Soy un desarrollador back-end con sólida experiencia en el sector financiero, especialmente en soluciones vinculadas a tarjetas de crédito. Me apasiona la programación en Python, el análisis de datos y la mejora continua. Trabajo desarrollando soluciones a medida, automatizando procesos y manteniendo sistemas críticos para operaciones bancarias.
+
+En los últimos años he enfocado mi carrera en ciencia de datos, aplicando modelos de machine learning para evaluar riesgos crediticios, detectar fraudes y segmentar clientes. Utilizo herramientas como Python, SQL, Scikit-learn, Pandas y Power BI para transformar datos en decisiones estratégicas. Me destaco por mi responsabilidad, curiosidad y compromiso con la calidad en cada etapa del desarrollo y análisis.
 
 
 ### 🛠️ Tecnologías y herramientas
