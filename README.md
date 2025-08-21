@@ -36,7 +36,7 @@ En los últimos años he enfocado mi carrera en ciencia de datos, aplicando mode
 
 ### 📫 Contacto
 
-- 📧 [odcaceres1972@gmail.com](mailto:odcaceres1972@gmail.com)
+- 📧 [odcaceres1972@gmail.com](mailto:byttacora@gmail.com)
 - 💼 [LinkedIn - Oscar Daniel Cáceres](https://www.linkedin.com/in/oscardanielcaceres95b95771/)
 
 ---
