@@ -1,4 +1,3 @@
-
 # 👋 ¡Hola! Soy Oscar Daniel Cáceres
   🐍 Python &amp; Data Science 🛠️ Back-End Developer 🗄️ SQL | IA | Git
 
@@ -11,12 +10,12 @@
 
 🛠️ Tecnologías y herramientas
 
-Lenguajes de programación: Python, Java, JavaScript, PHP, C#.NET
-Bases de datos: SQL Server, MySQL
-Back-End & APIs: Desarrollo de servicios con Python, Java, PHP, C#.NET, APIs REST
-Data & Automatización: Pandas, NumPy, Matplotlib, SmartOpen, Batch Processing
-Entornos y herramientas: Git, Docker, Visual Studio, Sublime Text, PyCharm, Jupyter Notebook, Google Colab
-Otros: Automatización de procesos, Testing funcional
+- **Lenguajes de programación:** Python, Java, JavaScript, PHP, C#.NET  
+- **Bases de datos:** SQL Server, MySQL  
+- **Back-End & APIs:** Desarrollo de servicios con Python, Java, PHP, C#.NET, APIs REST  
+- **Data & Automatización:** Pandas, NumPy, Matplotlib, SmartOpen, Batch Processing  
+- **Entornos y herramientas:** Git, Docker, Visual Studio, Sublime Text, PyCharm, Jupyter Notebook, Google Colab  
+- **Otros:** Automatización de procesos, Testing funcional  
 
 ---
 
