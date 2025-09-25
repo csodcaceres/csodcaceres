@@ -22,16 +22,16 @@ En los últimos años he enfocado mi carrera en ciencia de datos, aplicando mode
 ### 📌 Proyectos destacados
 
 - 📊 **Scripts en Python para análisis de datos**  
-  Automatización de reportes y procesamiento de grandes volúmenes de datos, usando librerías como Pandas y Matplotlib.
+  Desarrollo de scripts para automatización de informes y procesamiento de grandes volúmenes de datos, utilizando librerías como Pandas y Matplotlib.
 
 - 🖥️ Aplicación de Escritorio en Python con Tkinter
-  Aplicación GUI desarrollada con **Python + Tkinter**, diseñada para gestionar clientes, cargar datos, Presupuesto, etc.
+  Creación de una aplicación GUI para gestión de clientes, carga de datos y generación de presupuestos, desarrollada con Python + Tkinter.
 
 - 🔍 **Sistema de consultas históricas**  
-  Desarrollo en PHP + MySQL para gestión y búsqueda de archivos en sectores internos como Comercio, Autorización y Liquidaciones. Filtros avanzados, estadísticas y exportación a Excel/PDF.
+  Implementación de una solución en PHP + MySQL para la gestión y búsqueda de archivos en sectores internos (Comercio, Autorización y Liquidaciones), con filtros avanzados, estadísticas y exportación a Excel/PDF.
 
 - ⚙️ **Mantenimiento SmartOpen y stored procedures**  
-  Experiencia en entornos bancarios optimizando procesos batch y bases de datos con SQL Server.
+  Mantenimiento y mejora de procedimientos almacenados, así como integración con SmartOpen, optimizando procesos por lotes y bases de datos en SQL Server.
 
 ---
 
