@@ -4,7 +4,7 @@
 ## 💼 Sobre mí
 Soy un desarrollador back-end con sólida experiencia en el sector financiero, especialmente en soluciones vinculadas a tarjetas de crédito. Me apasiona la programación en Python, el análisis de datos y la mejora continua. Trabajo desarrollando soluciones a medida, automatizando procesos y manteniendo sistemas críticos para operaciones bancarias.
 
-En los últimos años he enfocado mi carrera en ciencia de datos, aplicando modelos de machine learning para evaluar riesgos crediticios, detectar fraudes y segmentar clientes. Utilizo herramientas como Python, SQL, Scikit-learn, Pandas y Power BI para transformar datos en decisiones estratégicas. Me destaco por mi responsabilidad, curiosidad y compromiso con la calidad en cada etapa del desarrollo y análisis.
+En los últimos años he enfocado mi carrera en ciencia de datos, aplicando modelos de machine learning para evaluar riesgos crediticios, detectar fraudes y segmentar clientes. Utilizo herramientas como Python, SQL, Scikit-learn, Pandas para transformar datos en decisiones estratégicas. Me destaco por mi responsabilidad, curiosidad y compromiso con la calidad en cada etapa del desarrollo y análisis.
 
 
 ### 🛠️ Tecnologías y herramientas
@@ -27,7 +27,7 @@ En los últimos años he enfocado mi carrera en ciencia de datos, aplicando mode
   Aplicación GUI desarrollada con **Python + Tkinter**, diseñada para gestionar clientes, cargar datos, Presupuesto, etc.
 
 - 🔍 **Sistema de consultas históricas**  
-  Desarrollo en PHP + MySQL para gestión y búsqueda de archivos en sectores internos como Comercio, Autorización y Liquidaciones. Incluye filtros avanzados, estadísticas y exportación a Excel/PDF.
+  Desarrollo en PHP + MySQL para gestión y búsqueda de archivos en sectores internos como Comercio, Autorización y Liquidaciones. Filtros avanzados, estadísticas y exportación a Excel/PDF.
 
 - ⚙️ **Mantenimiento SmartOpen y stored procedures**  
   Experiencia en entornos bancarios optimizando procesos batch y bases de datos con SQL Server.
