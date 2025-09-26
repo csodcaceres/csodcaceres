@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Oscar Daniel Cáceres
+# 👋 ¡Hola! Soy Oscar Daniel Cáceres.
   🐍 Python &amp; Data Science 🛠️ Back-End Developer 🗄️ SQL | IA | Git
 
 ## 💼 Sobre mí
