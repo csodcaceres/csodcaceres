@@ -13,7 +13,7 @@
 - **Lenguajes de programación:** Python, Java, JavaScript, PHP, C#.NET  
 - **Bases de datos:** SQL Server, MySQL  
 - **Back-End & APIs:** Desarrollo de servicios con Python, Java, PHP, C#.NET, APIs REST  
-- **Data & Automatización:** Pandas, NumPy, Matplotlib, SmartOpen, Batch Processing  
+- **Data & Automatización:** Pandas, NumPy, Matplotlib, Scikit-lear, SmartOpen, Batch Processing  
 - **Entornos y herramientas:** Git, Docker, Visual Studio, Sublime Text, PyCharm, Jupyter Notebook, Google Colab  
 - **Otros:** Automatización de procesos, Testing funcional  
 
