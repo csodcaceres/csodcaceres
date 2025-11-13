@@ -1,43 +1,99 @@
 # 👋 ¡Hola! Soy Oscar Daniel Cáceres.
-  🐍 Python &amp; Data Science 🛠️ Back-End Developer 🗄️ SQL | IA | Git
+🐍 Desarrollador Back-End & Data Scientist (Python) con experiencia en procesos y sistemas bancarios
 
 ## 💼 Sobre mí
-💻 Soy desarrollador Back-End con amplia experiencia en el sector financiero, especializado en soluciones para tarjetas de crédito y sistemas bancarios críticos. Me apasiona la programación en Python, el análisis de datos y la optimización de procesos para lograr mayor eficiencia y confiabilidad.
+💻 Soy desarrollador Back-End orientado a Python y Ciencia de Datos, con sólida experiencia en el sector financiero. Durante años trabajé con sistemas bancarios de terceros, donde me especialicé en el análisis, mantenimiento y mejora de procesos críticos, especialmente a nivel de base de datos y lógica de negocio.
 
-🚀 En los últimos años he enfocado mi carrera en Ciencia de Datos, aplicando modelos de Machine Learning para evaluar riesgos crediticios, detectar fraudes y segmentar clientes. Trabajo con herramientas como Python, SQL, Scikit-learn y Pandas, transformando datos en decisiones estratégicas.
+🗄️ Tengo amplia experiencia en la creación, optimización y mantenimiento de **procedimientos almacenados (SQL Server)**, flujos de procesamiento por lotes y tareas de integración entre sistemas. Mi trabajo se centró en asegurar la eficiencia, disponibilidad y confiabilidad de plataformas vinculadas a **tarjetas de crédito, autorizaciones y liquidaciones**.
 
-🔑 Me destaco por mi responsabilidad, curiosidad y compromiso con la calidad en cada etapa del desarrollo, desde la planificación hasta la implementación y el análisis.
+🚀 En mi transición hacia Ciencia de Datos, he aplicado modelos de **Machine Learning** para análisis de riesgo, detección de fraude y segmentación de clientes, aprovechando herramientas como **Python, Pandas, Scikit-learn y SQL** para convertir datos en insights accionables.
 
-🛠️ Tecnologías y herramientas
+🔑 Me caracterizo por la responsabilidad, la calidad del código, la capacidad analítica y el compromiso en cada etapa del proceso: desde el diseño hasta la implementación y mejora continua.
 
-- **Lenguajes de programación:** Python, Java, JavaScript, PHP, C#.NET  
-- **Bases de datos:** SQL Server, MySQL  
-- **Back-End & APIs:** Desarrollo de servicios con Python, Java, PHP, C#.NET, APIs REST  
-- **Data & Automatización:** Pandas, NumPy, Matplotlib, Scikit-lear, SmartOpen, Batch Processing  
-- **Entornos y herramientas:** Git, Docker, Visual Studio, Sublime Text, PyCharm, Jupyter Notebook, Google Colab  
-- **Otros:** Automatización de procesos, Testing funcional  
+## 🛠️ Tecnologías y herramientas
+
+### 💻 Lenguajes de programación
+- **Python** (principal)
+- Java • JavaScript • PHP • C#.NET
+
+### 🗄️ Bases de datos
+- **SQL Server** (alto nivel – procedimientos almacenados, procesos batch)
+- MySQL
+
+### ⚙️ Back-End & APIs
+- Desarrollo y mantenimiento de servicios en Python  
+- Integraciones con sistemas de terceros  
+- APIs REST  
+- Procesos por lotes (Batch Processing)
+
+### 📊 Ciencia de Datos & Análisis
+- Pandas • NumPy • Matplotlib  
+- Scikit-learn  
+- Limpieza, transformación y modelado de datos  
+- Machine Learning aplicado a riesgo y fraude
+
+### 🧰 Herramientas y entornos
+- Git • Docker  
+- Visual Studio • PyCharm • Sublime Text  
+- Jupyter Notebook • Google Colab
+
+### 🔧 Otros
+- Automatización de procesos  
+- Testing funcional  
+- Manejo de flujos bancarios y lógica de negocio
 
 ---
 
-Proyectos destacados
+## ⭐ Proyectos destacados
 
-📊 Análisis de Datos con Python
-Desarrollo de scripts para automatización de informes y procesamiento de grandes volúmenes de datos, utilizando librerías como Pandas y Matplotlib.
+> En los próximos días subiré cada proyecto a su propio repositorio para facilitar su revisión individual.
 
-🖥️ Aplicación de Escritorio en Python (Tkinter)
-Creación de una aplicación GUI para gestión de clientes, carga de datos y generación de presupuestos, desarrollada con Python + Tkinter.
-
-🔍 Sistema de Consultas Históricas
-Implementación de una solución en PHP + MySQL para la gestión y búsqueda de archivos en sectores internos (Comercio, Autorización y Liquidaciones), con filtros avanzados, estadísticas y exportación a Excel/PDF.
-
-⚙️ Optimización de Procesos Bancarios
-Mantenimiento y mejora de procedimientos almacenados, así como integración con SmartOpen, optimizando procesos por lotes y bases de datos en SQL Server.
+### 📊 **Análisis de Datos con Python**
+**Tecnologías:** Python, Pandas, Matplotlib  
+Automatización de informes, análisis exploratorio y procesamiento de grandes volúmenes de datos. Incluye visualizaciones, transformaciones y consolidación de datasets.
 
 ---
 
-📫 Contacto
+### 🖥️ **Aplicación de Escritorio en Python (Tkinter)**
+**Tecnologías:** Python, Tkinter  
+Aplicación GUI para gestión de clientes, carga de datos y generación de presupuestos. Incluye validaciones, persistencia de datos y diseño modular.
 
-- 📧 [byttonica@gmail.com](mailto:byttonica@gmail.com)
+---
+
+### 🔍 **Sistema de Consultas Históricas**
+**Tecnologías:** PHP, MySQL  
+
+Desarrollo completo desde cero de un sistema interno utilizado por los sectores de Comercio, Autorizaciones y Liquidaciones para la consulta y gestión de archivos históricos. Incluye búsqueda avanzada, filtros por múltiples criterios, estadísticas, y exportación a Excel/PDF.
+
+🔒 Por políticas de la empresa, el código no puede publicarse, pero puedo detallar su arquitectura y funcionalidad en entrevistas.
+
+---
+
+### ⚙️ **Optimización de Procesos Bancarios**
+**Tecnologías:** SQL Server, Stored Procedures, Batch Processing  
+Optimización y mantenimiento de procedimientos almacenados, análisis de rendimiento y mejora de tareas por lotes. Integración con sistemas de terceros mediante SmartOpen.
+
+🔒 Por políticas de la empresa, el código no puede publicarse, pero puedo detallar su arquitectura y funcionalidad en entrevistas.
+
+---
+
+### 🧠 **Modelos de Machine Learning aplicados a riesgo**
+**Tecnologías:** Python, Scikit-learn, Pandas  
+Implementación de modelos de clasificación para riesgo crediticio, segmentación y detección de fraude. Incluye preprocesamiento, ingeniería de características y evaluación de métricas.
+
+---
+
+### 🧹 **Automatización de tareas y procesamiento por lotes**
+**Tecnologías:** Python, SQL Server  
+Desarrollo de scripts y procesos automatizados para limpieza, migración y validación de datos en entornos bancarios críticos.
+
+🔒 Por políticas de la empresa, el código no puede publicarse, pero puedo detallar su arquitectura y funcionalidad en entrevistas.
+
+---
+
+## 📫 Contacto
+
+- 📧 byttonica@gmail.com
 - 💼 [LinkedIn - Oscar Daniel Cáceres](https://www.linkedin.com/in/oscardanielcaceres95b95771/)
 
 ---
