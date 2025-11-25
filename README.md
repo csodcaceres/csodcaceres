@@ -1,14 +1,12 @@
 # 👋 ¡Hola! Soy Oscar Daniel Cáceres.
-🐍 Desarrollador Back-End & Data Scientist (Python) con experiencia en procesos y sistemas bancarios
 
-## 💼 Sobre mí
-💻 Soy desarrollador Back-End orientado a Python y Ciencia de Datos, con sólida experiencia en el sector financiero. Durante años trabajé con sistemas bancarios de terceros, donde me especialicé en el análisis, mantenimiento y mejora de procesos críticos, especialmente a nivel de base de datos y lógica de negocio.
+💻 Desarrollador Back-End orientado a Python y Ciencia de Datos, con sólida trayectoria en el sector financiero. Durante años trabajé con sistemas bancarios y procesos críticos, especialmente en entornos de tarjetas de crédito, autorizaciones y liquidaciones.
 
-🗄️ Tengo amplia experiencia en la creación, optimización y mantenimiento de **procedimientos almacenados (SQL Server)**, flujos de procesamiento por lotes y tareas de integración entre sistemas. Mi trabajo se centró en asegurar la eficiencia, disponibilidad y confiabilidad de plataformas vinculadas a **tarjetas de crédito, autorizaciones y liquidaciones**.
+🗄️ Experto en SQL Server, creación y optimización de procedimientos almacenados, flujos batch e integraciones entre sistemas, asegurando siempre eficiencia, disponibilidad y confiabilidad.
 
-🚀 En mi transición hacia Ciencia de Datos, he aplicado modelos de **Machine Learning** para análisis de riesgo, detección de fraude y segmentación de clientes, aprovechando herramientas como **Python, Pandas, Scikit-learn y SQL** para convertir datos en insights accionables.
+🚀 En mi transición hacia Data Science, desarrollé modelos de Machine Learning para análisis de riesgo, detección de fraude y segmentación de clientes, utilizando Python, Pandas, Scikit-learn y SQL para generar insights accionables.
 
-🔑 Me caracterizo por la responsabilidad, la calidad del código, la capacidad analítica y el compromiso en cada etapa del proceso: desde el diseño hasta la implementación y mejora continua.
+🔑 Me destacan la calidad del código, el enfoque analítico y el compromiso en todo el ciclo de desarrollo: desde el diseño hasta la mejora continua.
 
 ## 🛠️ Tecnologías y herramientas
 
