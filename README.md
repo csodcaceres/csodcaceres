@@ -1,7 +1,7 @@
 # 👋 Hola, soy Oscar Cáceres
 
-🚀 **Desarrollador Python | Data Science | Back‑End**
-🎯 En búsqueda de oportunidades como **Python Developer / Data Scientist**
+🚀 **Desarrollador Python | Data Science | Back-End**  
+🎯 En búsqueda de oportunidades como **Python Developer / Data Scientist** con foco en datos y automatización
 
 ---
 
@@ -17,16 +17,16 @@ Actualmente continúo fortaleciendo mis habilidades en **Python, análisis de da
 
 ## 🛠️ Tecnologías y herramientas
 
-* **Lenguajes:** Python, SQL, JavaScript, Java
-* **Data Science:** Pandas, Matplotlib, Jupyter
-* **Backend & Dev:** Git, GitHub, testing con Pytest
+* **Lenguajes:** Python, SQL, JavaScript, Java  
+* **Data Science:** Pandas, Matplotlib, Jupyter  
+* **Backend & Dev:** Git, GitHub, Pytest  
 * **Otros:** HTML, CSS
 
 ---
 
 ## 📂 Portfolio de proyectos
 
-👉 **Repositorio principal de proyectos:**
+👉 **Repositorio principal de proyectos:**  
 🔗 [https://github.com/csodcaceres/Proyectos_Python](https://github.com/csodcaceres/Proyectos_Python)
 
 Cada proyecto incluye README propio, estructura organizada y foco en legibilidad y aprendizaje progresivo.
@@ -41,8 +41,8 @@ Continuar creciendo como **Python Developer orientado a Data Science**, aportand
 
 ## 📫 Contacto
 
-* 📧 Email: **[byttonica@gmail.com](mailto:byttonica@gmail.com)**
-* 💼 [LinkedIn - Oscar Daniel Cáceres](https://www.linkedin.com/in/oscardanielcaceres95b95771/)
+* 📧 Email: **[byttonica@gmail.com](mailto:byttonica@gmail.com)**  
+* 💼 [LinkedIn – Oscar Daniel Cáceres](https://www.linkedin.com/in/oscardanielcaceres95b95771/)  
 * 🐙 GitHub: [https://github.com/csodcaceres](https://github.com/csodcaceres)
 
 ---
@@ -51,7 +51,7 @@ Continuar creciendo como **Python Developer orientado a Data Science**, aportand
 
 ---
 
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csodcaceres&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csodcaceres&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact)
