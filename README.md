@@ -1,6 +1,6 @@
 # 👋 Hola, soy Oscar Cáceres
 
-🚀 **Desarrollador Python | Data Science | Back-End**  
+🚀 **Desarrollador Python | Data Science**  
 🎯 En búsqueda de oportunidades como **Python Developer / Data Scientist** con foco en datos y automatización
 
 ---
