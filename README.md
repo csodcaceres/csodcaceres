@@ -1,6 +1,6 @@
 # 👋 Hola, soy Oscar Cáceres
 
-🚀 **Desarrollador Python | Data Science**  
+🚀 **Python Developer | Data Science**  
 
 ---
 
