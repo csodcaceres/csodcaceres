@@ -41,7 +41,7 @@ Continuar creciendo como **Python Developer orientado a Data Science**, aportand
 ## 📫 Contacto
 
 * 📧 Email: **[byttonica@gmail.com](mailto:byttonica@gmail.com)**  
-* 💼 [LinkedIn – Oscar Daniel Cáceres](https://www.linkedin.com/in/oscardanielcaceres95b95771/)  
+* 💼 [LinkedIn – Oscar Daniel Cáceres](https://www.linkedin.com/in/oscardanielcaceres/)  
 * 🐙 GitHub: [https://github.com/csodcaceres](https://github.com/csodcaceres)
 
 ---
