@@ -1,6 +1,7 @@
 # 👋 Hola, soy Oscar Cáceres
 
-🚀 **Python Developer | Data Science**  
+🎯 Python Developer & Data Science Trainee  
+💳 +10 años de experiencia en banca – Tarjetas de Crédito (QA, Dev, Análisis Funcional)  
 
 ---
 
