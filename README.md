@@ -43,8 +43,6 @@ Soy un desarrollador apasionado por los datos con una sólida base en el sector 
 ### 🚀 [Proyectos Python Core](https://github.com/csodcaceres/Proyectos_Python)
 Repositorio principal donde centralizo mis desarrollos. Cada proyecto incluye documentación detallada, estructura organizada y foco en la legibilidad.
 
-*¿Deseas ver algo específico? Explora mis repositorios fijados aquí abajo.* ↓
-
 ---
 
 ## 📫 Contacto
