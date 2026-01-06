@@ -22,6 +22,8 @@ Actualmente continúo fortaleciendo mis habilidades en **Python, análisis de da
 * **Backend & Dev:** Git, GitHub, Pytest  
 * **Otros:** HTML, CSS
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact&theme=vision-board)
+
 ---
 
 ## 📂 Portfolio de proyectos
