@@ -22,7 +22,9 @@ Actualmente continúo fortaleciendo mis habilidades en **Python, análisis de da
 * **Backend & Dev:** Git, GitHub, Pytest  
 * **Otros:** HTML, CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact&theme=vision-board)
+### 📊 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=csodcaceres&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact&theme=radical)
 
 ---
 
