@@ -1,9 +1,10 @@
 # 👋 Hola, soy Oscar Cáceres
 
 ### 🎯 Python Backend Developer | Data Science
-**+10 años de experiencia en el sector bancario (Tarjetas de Crédito)** ocupando roles estratégicos en **QA, Desarrollo y Análisis Funcional**. 
 
-Aporto una visión integral del ciclo de vida del software, garantizando soluciones que no solo funcionen, sino que sean seguras, escalables y orientadas a las necesidades reales del negocio.
++10 años de experiencia en el sector bancario (Tarjetas de Crédito), desempeñándome en roles de QA, Desarrollo y Análisis Funcional.
+
+Aporto una visión integral del ciclo de vida del software, enfocada en construir soluciones seguras, escalables y alineadas a las necesidades del negocio.
 
 ---
 
