@@ -9,11 +9,8 @@ Aporto una visión integral del ciclo de vida del software, garantizando solucio
 
 ## 📌 Sobre mí
 
-Soy un desarrollador apasionado por los datos con una sólida base en el sector financiero. Mi enfoque principal es escribir **código claro, modular y mantenible**, aplicando buenas prácticas de desarrollo y testing.
-
-- 🐍 Especializado en **Python** para automatización y análisis.
-- 📊 Formación continua en **Data Science** (Pandas, Visualización de Datos).
-- 💳 Experto funcional en ecosistemas de medios de pago y banca.
+Soy desarrollador con experiencia en el sector bancario, especializado en SQL, análisis funcional y sistemas de tarjetas de crédito.
+Actualmente me enfoco en el desarrollo backend con Python (FastAPI) y cuento con formación en Data Science, aplicando Python para análisis de datos.
 
 ---
 
@@ -38,10 +35,17 @@ Soy un desarrollador apasionado por los datos con una sólida base en el sector 
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos
+🔹 Backend con FastAPI (en desarrollo)  
+🔹 Prácticas de SQL avanzado (JOINs, consultas complejas)  
+🔹 Próximamente: proyectos de análisis de datos
 
-### 🚀 [Proyectos Python Core](https://github.com/csodcaceres/Proyectos_Python)
-Repositorio principal donde centralizo mis desarrollos. Cada proyecto incluye documentación detallada, estructura organizada y foco en la legibilidad.
+---
+
+## 📈 Actualmente
+- Construyendo APIs backend con FastAPI  
+- Aplicando análisis de datos con Python  
+- Fortaleciendo habilidades en backend y Data Science
 
 ---
 
