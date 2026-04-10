@@ -1,6 +1,6 @@
 # Oscar Cáceres
 
-###  Python Backend Developer | +10 años en banca | APIs seguras
+###  Python Backend Developer | APIs REST | SQL | Banking Tech
 
 +10 años de experiencia en el sector bancario (Tarjetas de Crédito), desempeñándome en roles de QA, Desarrollo y Análisis Funcional.
 
@@ -59,6 +59,12 @@ Desarrollador backend con experiencia en sistemas financieros, enfocado en la co
 - Desarrollo de APIs REST con FastAPI  
 - Modelado de datos y consultas SQL  
 - Análisis y visualización de datos con Python
+
+---
+
+## 💼 Experiencia
+
++10 años en sector bancario (tarjetas de crédito), participando en desarrollo, testing y análisis funcional.
 
 ---
 
