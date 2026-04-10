@@ -60,7 +60,7 @@ También aplico Python para análisis de datos utilizando Pandas y herramientas 
 - Desarrollo de APIs REST con FastAPI  
 - Modelado de datos y consultas SQL  
 - Análisis y visualización de datos con Python
--   
+
 ---
 
 ## 📫 Contacto
