@@ -1,6 +1,6 @@
-# 👋 Hola, soy Oscar Cáceres
+# Oscar Cáceres
 
-### 🎯 Python Backend Developer | +10 años en banca | APIs seguras
+###  Python Backend Developer | +10 años en banca | APIs seguras
 
 +10 años de experiencia en el sector bancario (Tarjetas de Crédito), desempeñándome en roles de QA, Desarrollo y Análisis Funcional.
 
@@ -8,11 +8,9 @@ Experiencia en todo el ciclo de vida del software, con foco en desarrollo backen
 
 ---
 
-## 📌 Sobre mí
+## 🚀 Perfil profesional
 
-Desarrollador con experiencia en el sector bancario, especializado en SQL, análisis funcional y sistemas de tarjetas de crédito.
-Actualmente desarrollo soluciones backend con Python (FastAPI), construyendo APIs REST, validaciones con Pydantic y arquitecturas escalables.
-También aplico Python para análisis de datos utilizando Pandas y herramientas de visualización.
+Desarrollador backend con experiencia en sistemas financieros, enfocado en la construcción de APIs robustas, manejo de datos y soluciones escalables.
 
 ---
 
@@ -43,20 +41,21 @@ También aplico Python para análisis de datos utilizando Pandas y herramientas 
 ---
 
 ## 📂 Proyectos
+
 🔹 API REST con FastAPI  
-- Endpoints CRUD  
-- Validación con Pydantic  
-- Arquitectura modular  
+- Endpoints para operaciones (CRUD)  
+- Validación de datos con Pydantic  
+- Estructura modular por capas  
 
 🔹 Consultas SQL  
-- JOINs, agregaciones y optimización  
+- JOINs, filtros y agregaciones  
 
-🔹 Análisis de datos con Python  
-- Limpieza y visualización con Pandas y Matplotlib
+🔹 Análisis de datos  
+- Limpieza y visualización con Pandas y Matplotlib  
 
 ---
 
-## 📈 Actualmente
+##  Actualmente
 - Desarrollo de APIs REST con FastAPI  
 - Modelado de datos y consultas SQL  
 - Análisis y visualización de datos con Python
@@ -77,7 +76,7 @@ También aplico Python para análisis de datos utilizando Pandas y herramientas 
 
 ---
 
-## 📈 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csodcaceres&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact&theme=radical)
