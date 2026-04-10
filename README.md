@@ -37,16 +37,15 @@ Actualmente me enfoco en el desarrollo backend con Python (FastAPI) y cuento con
 ---
 
 ## 📂 Proyectos
-🔹 Backend con FastAPI (en desarrollo)  
-🔹 Prácticas de SQL avanzado (JOINs, consultas complejas)  
-🔹 Próximamente: proyectos de análisis de datos
+🔹 Backend con FastAPI (en desarrollo)
+🔹 SQL  
+🔹 Análisis de datos
 
 ---
 
 ## 📈 Actualmente
 - Construyendo APIs backend con FastAPI  
-- Aplicando análisis de datos con Python  
-- Fortaleciendo habilidades en backend y Data Science
+- Análisis de datos con Python  
 
 ---
 
