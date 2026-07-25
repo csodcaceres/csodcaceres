@@ -1,38 +1,46 @@
 # Oscar Cáceres
 
-###  Python Backend Developer | APIs REST | SQL | Banking Tech
+### Python Backend Developer | REST APIs | SQL | Banking Technology
 
-+10 años de experiencia en el sector bancario (Tarjetas de Crédito), desempeñándome en roles de QA, Desarrollo y Análisis Funcional.
+Backend developer focused on building reliable, scalable, and maintainable APIs.
 
-Experiencia en todo el ciclo de vida del software, con foco en desarrollo backend, diseño de APIs y sistemas orientados a negocio financiero.
++10 years of experience in the banking industry (Credit Cards), working across QA, Software Development, and Functional Analysis roles.
 
----
-
-## 🚀 Perfil profesional
-
-Desarrollador backend con experiencia en sistemas financieros, enfocado en la construcción de APIs robustas, manejo de datos y soluciones escalables.
+Experienced in the complete software development lifecycle, with a strong focus on backend development, API design, data management, and business-oriented solutions.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🚀 Professional Profile
 
-### 💻 Lenguajes y Backend
+Backend developer specialized in Python and FastAPI, with experience designing REST APIs, implementing clean architectures, and building solutions for financial systems.
+
+My background in banking allows me to combine technical knowledge with a strong understanding of business requirements and real-world processes.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Backend & Programming Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 📊 Data Science & Análisis
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### 📊 Data Analysis
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+### ⚙️ Tools & DevOps
 
-### ⚙️ Herramientas y DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,35 +48,47 @@ Desarrollador backend con experiencia en sistemas financieros, enfocado en la co
 
 ---
 
-## 📂 Proyectos
+## 📂 Featured Projects
 
-🔹 API REST con FastAPI  
-- Endpoints para operaciones (CRUD)  
-- Validación de datos con Pydantic  
-- Estructura modular por capas  
+### 🚀 FastAPI Template
 
-🔹 Consultas SQL  
-- JOINs, filtros y agregaciones  
+A production-oriented FastAPI backend template built with modern Python practices.
 
-🔹 Análisis de datos  
-- Limpieza y visualización con Pandas y Matplotlib  
+Features:
 
----
+- Layered architecture
+- REST API design
+- Repository pattern
+- Service layer
+- SQLAlchemy 2.x
+- Pydantic v2
+- Dependency injection
+- Exception handling
+- Automated testing
 
-##  Actualmente
-- Desarrollo de APIs REST con FastAPI  
-- Modelado de datos y consultas SQL  
-- Análisis y visualización de datos con Python
-
----
-
-## 💼 Experiencia
-
-+10 años en sector bancario (tarjetas de crédito), participando en desarrollo, testing y análisis funcional.
+Repository:
+👉 https://github.com/csodcaceres/fastapi-template
 
 ---
 
-## 📫 Contacto
+## 📌 Currently
+
+- Building REST APIs with FastAPI
+- Improving backend architecture skills
+- Working with SQL databases and data modeling
+- Developing reusable backend templates
+
+---
+
+## 💼 Professional Experience
+
++10 years in the banking industry (Credit Cards), participating in software development, testing, and functional analysis.
+
+Experience working with business-critical systems and processes in financial environments.
+
+---
+
+## 📫 Contact
 
 <p align="left">
 <a href="https://www.linkedin.com/in/oscardanielcaceres/" target="_blank">
@@ -82,10 +102,12 @@ Desarrollador backend con experiencia en sistemas financieros, enfocado en la co
 
 ---
 
-##  Estadísticas de GitHub
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csodcaceres&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csodcaceres&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csodcaceres&layout=compact&theme=radical)
 
 ---
-⭐ *Gracias por visitar mi perfil. Siempre abierto a aprender, mejorar y colaborar en nuevos desafíos.*
+
+⭐ Thanks for visiting my profile. Always open to learning, improving, and collaborating on new challenges.
