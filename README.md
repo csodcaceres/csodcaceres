@@ -1,6 +1,6 @@
 # Oscar Cáceres
 
-### Python Backend Developer | REST APIs | SQL | Banking Technology
+### Python Backend Developer | FastAPI | REST APIs | SQL | Banking Technology
 
 Backend developer focused on building reliable, scalable, and maintainable APIs.
 
