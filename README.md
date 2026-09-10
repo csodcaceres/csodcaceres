@@ -89,6 +89,22 @@ Features:
 
 Repository: 👉 https://github.com/csodcaceres/inventory-management-api
 
+
+### 🐍 Python Student Report Generator
+
+A Python automation project that processes student grades from CSV files, calculates averages, determines pass/fail status, and generates a structured report.
+
+Features:
+
+* CSV file processing
+* Average calculation
+* Conditional logic
+* Exception handling
+* File input/output
+* Automated report generation
+
+Repository: 👉 https://github.com/csodcaceres/python-student-report-generator
+
 ---
 
 ## 📌 Currently
