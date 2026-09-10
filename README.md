@@ -69,6 +69,26 @@ Features:
 Repository:
 👉 https://github.com/csodcaceres/fastapi-template
 
+
+### 📦 Inventory Management API
+
+A backend API for managing products and categories, built with Python and FastAPI.
+
+Features:
+
+* REST API design
+* CRUD operations
+* Layered architecture
+* Repository pattern
+* Service layer
+* SQLAlchemy
+* Pydantic
+* Dependency injection
+* Exception handling
+* Database migrations
+
+Repository: 👉 https://github.com/csodcaceres/inventory-management-api
+
 ---
 
 ## 📌 Currently
