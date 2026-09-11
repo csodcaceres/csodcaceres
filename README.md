@@ -105,6 +105,21 @@ Features:
 
 Repository: 👉 https://github.com/csodcaceres/python-student-report-generator
 
+
+### 🐍 Task Manager CLI
+
+A command-line task manager built with Python and JSON, featuring task creation, status management, deletion, input validation, and persistent local storage.
+
+Features:
+
+* Command-line interface
+* JSON data persistence
+* Task management
+* Input validation
+* Exception handling
+* File input/output
+
+Repository: 👉 https://github.com/csodcaceres/task-manager-cli
 ---
 
 ## 📌 Currently
